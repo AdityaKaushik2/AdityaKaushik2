@@ -63,6 +63,6 @@
 
 ###
 
-<h2 align="right">~Aditya Kaushik</h2>
+<h2 align="right">~AdityaKaushik2</h2>
 
 ###
