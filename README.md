@@ -38,36 +38,31 @@
   <a href="https://t.me/Aditya_349" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="46" height="31" alt="telegram logo"  />
   </a>
-  <a href="https://www.hackerrank.com/ankushtiwari" target="_blank">
+  <a href="https://www.hackerrank.com/aditya_kaushik23" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="46" height="31" alt="hackerrank logo"  />
   </a>
-  <a href="https://stackoverflow.com/users/21005066/ankush-tiwari" target="_blank">
+  <a href="https://stackoverflow.com/users/22646019/aditya-kaushik" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="46" height="31" alt="stackoverflow logo"  />
-  </a>
-  <a href="https://medium.com/@tiwariankush" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="46" height="31" alt="medium logo"  />
-  </a>
-  <a href="https://ko-fi.com/tiwaribro/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/ko-fi/default.svg" width="46" height="31" alt="ko-fi logo"  />
   </a>
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TiwariBro&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TiwariBro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=TiwariBro&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=AdityaK
+    aushik2&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AdityaKaushik2&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=AdityaKaushik2&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
 
 <div align="right">
-  <img src="https://profile-counter.glitch.me/TiwariBro/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/AdityaKaushik2/count.svg?"  />
 </div>
 
 ###
 
-<h2 align="right">~TIWARIBRO</h2>
+<h2 align="right">~Aditya Kaushik</h2>
 
 ###
