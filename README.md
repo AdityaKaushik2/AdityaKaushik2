@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/349aditya" target="blank"><img src="https://img.shields.io/twitter/follow/349aditya?logo=twitter&style=for-the-badge" alt="349aditya" /></a> </p>
 
-- 🔭 I’m currently working on [Quiz WebApp](https://github.com/AdityaKaushik2/quiz-web-app)
-
 - 🌱 I’m currently learning **Java Development**
 
 - 📫 How to reach me **aditya.kaushik2505@gmail.com**
